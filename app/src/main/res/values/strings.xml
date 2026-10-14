@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bacano</string>
+    <string name="design_system_badge">Sistema de Diseño M3</string>
+    <string name="company_name">Bacano</string>
+    <string name="company_tagline">Identidad y componentes de interfaz</string>
+    <string name="palette_section_title">Paleta de Colores</string>
+    <string name="palette_section_subtitle">Rojo, Negro y Blanco con contraste garantizado</string>
+    <string name="color_primary_name">Rojo Bacano</string>
+    <string name="color_primary_role">Primario</string>
+    <string name="color_primary_hex">#E53935</string>
+    <string name="color_secondary_name">Negro Carbón</string>
+    <string name="color_secondary_role">Secundario</string>
+    <string name="color_secondary_hex">#121212</string>
+    <string name="color_accent_name">Blanco Puro</string>
+    <string name="color_accent_role">Base / Contraste</string>
+    <string name="color_accent_hex">#FFFFFF</string>
+    <string name="interactive_section_title">Interacción y Saludo</string>
+    <string name="name_field_label">Nombre</string>
+    <string name="name_field_placeholder">Escribe tu nombre aquí</string>
+    <string name="greet_button_text">Saludar</string>
+    <string name="clear_button_text">Limpiar</string>
+    <string name="default_greeting_message">Hola mundo</string>
+    <string name="greeting_card_title">Tarjeta de Ejemplo</string>
+    <string name="theme_toggle_title">Control de Tema</string>
+    <string name="theme_light_desc">Modo Claro Activo</string>
+    <string name="theme_dark_desc">Modo Oscuro Activo</string>
+</resources>

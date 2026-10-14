@@ -1,0 +1,6 @@
+{
+  "name": "Bacano",
+  "description": "Demostración del sistema de diseño para Bacano con tipografía, paleta de colores (Negro, Blanco y Rojo), cambio de temas claro/oscuro, iconos, animaciones y bordes redondeados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
